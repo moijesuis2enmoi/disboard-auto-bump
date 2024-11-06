@@ -15,7 +15,7 @@ This project is a bot designed to automatically bump a Discord server at regular
 1. **.env File**: A `.env` file is needed for the bot to function properly. An example file, `x.env`, is included in this project.
    
    - **Step 1**: Rename `x.env` to `.env`.
-   - **Step 2**: Open the `.env` file and fill in the value for the token (`TOKEN`) with your bot’s authentication token.
+   - **Step 2**: Open the `.env` file and fill in the value for the token (`TOKEN`), the guild id (`GUILD_ID`) and the channel id (`CHANNEL_ID`) with your bot’s authentication token.
 
 2. The `.env` file should look like this:
    ```plaintext
