@@ -1,6 +1,6 @@
 # Discord Bumper Bot
 
-This project is a bot designed to automatically bump a Discord server at regular intervals using the Discord API.
+This project is a selfbot designed to automatically bump a Discord server at regular intervals using the Discord API.
 
 ## Installation
 
