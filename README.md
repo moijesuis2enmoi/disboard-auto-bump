@@ -24,7 +24,9 @@ This project is a selfbot designed to automatically bump a Discord server at reg
    CHANNEL_ID = "YOUR_CHANNEL_ID"
    ```
 
-   Replace `YOUR_USER_TOKEN` with your actual bot token.
+   Replace `YOUR_USER_TOKEN` with your actual user token.
+   Replace `YOUR_GUILD_ID` with the id of the guild to bump.
+   Replace `YOUR_CHANNEL_ID` with the channel you want the script to bumpp in.
 
 ## Usage
 
