@@ -45,4 +45,4 @@ This bot is provided for educational and informational purposes only. The creato
 
 ### License
 
-This project is licensed under the MIT License.
+This project is licensed under the Apache-2.0 License.
